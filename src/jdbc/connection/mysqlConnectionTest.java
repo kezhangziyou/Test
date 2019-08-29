@@ -1,4 +1,4 @@
-package jdbcTest;
+package jdbc.connection;
 
 
 
@@ -12,11 +12,11 @@ import java.sql.*;
 /**
  * @author zhangke
  * @version 1.0
- * @className test
+ * @className mysqlConnectionTest
  * @description TODO 测试阿里云数据库的时候能正常连接
  * @date 2019/3/21 下午2:36
  **/
-public class test {
+public class mysqlConnectionTest {
     public static  void main(String [] args){
         // 数据库驱动
         String driver = "com.mysql.jdbc.Driver";

@@ -8,7 +8,7 @@ import static com.sun.tools.corba.se.idl.InterfaceState.Private;
 /**
  * @author zhangke
  * @version 1.0
- * @className test
+ * @className mysqlConnectionTest
  * @description TODO 增强for循环需要集合类实现迭代器或者数组
  * @date 2019/2/25 上午10:49
  **/

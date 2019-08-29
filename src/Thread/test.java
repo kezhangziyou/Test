@@ -3,7 +3,7 @@ package Thread;
 /**
  * @author zhangke
  * @version 1.0
- * @className test
+ * @className mysqlConnectionTest
  * @description TODO 当前线程的名字和唯一标识
  * @date 2019/3/4 下午2:43
  **/

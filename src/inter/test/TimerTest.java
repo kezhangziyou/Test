@@ -5,11 +5,8 @@ package inter.test;
    @author Cay Horstmann
 */
 
-import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
 import javax.swing.*;
-import javax.swing.Timer; 
+import java.awt.event.ActionListener;
 // to resolve conflict with java.util.Timer
 
 public class TimerTest {
@@ -26,11 +23,4 @@ public class TimerTest {
    }
 }
 
-class TimePrinter implements ActionListener {
-   @Override
-   public void actionPerformed(ActionEvent event) {
-      Date now = new Date();
-      System.out.println("At the tone, the time is " + now);
-      Toolkit.getDefaultToolkit().beep();
-   }
-}
+

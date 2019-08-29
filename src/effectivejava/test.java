@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * @author zhangke
  * @version 1.0
- * @className test
+ * @className mysqlConnectionTest
  * @description TODO
  * @date 2019/3/9 下午5:14
  **/

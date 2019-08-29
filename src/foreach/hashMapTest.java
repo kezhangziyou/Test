@@ -7,11 +7,11 @@ import java.util.Map;
 /**
  * @author zhangke
  * @version 1.0
- * @className hashmapTest
+ * @className hashMapTest
  * @description TODO
  * @date 2019/3/1 下午12:56
  **/
-public class hashmapTest {
+public class hashMapTest {
     public static  void main(String [] args){
         Map map=new HashMap();
         map.put("1","zhangke");

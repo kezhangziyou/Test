@@ -7,24 +7,40 @@
 
 **design.pattern：常见的设计模式**
 
+* builder：建造者模式
+* chain：责任链模式
+* factory：工程模式
+* observer：观察者模式
+* proxy：代理模式
+* single：单例模式
+* template：模板模式
+    
 **effectivejava：effectivejava书上的一些例子**
+
+**excel：excel的导入与导出**
 
 **Exception：异常的使用与总结**
 
 **fanxing：泛型的使用方法**
 
-**foreach的使用**
+**foreach:foreach的使用**
 
-**延时监听**
+**Http：httpClient的使用**
 
 **jdbc测试连接**
 
+**jdbc.connection: jdbc测试连接**
+
 **ProducerConsumerProblem：生产者消费者模式**
 
-**编程过程中的测试**
+**Test：反射原理的探究**
 
-**多线程**
+**Test：测试文件夹**
 
-**线程池**
+**Thread：多线程的使用**
 
-**常用的utils**
+**ThreadPoolExecutor：线程池的使用**
+
+**tree:构造树形结构**
+
+**utils: 常用的utils**
