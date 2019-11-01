@@ -7,11 +7,11 @@ import java.util.List;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description TODO
  * @date 2019/5/16 4:42 PM
  **/
-public class Test {
+public class ComparatorTest {
     public static  void main(String [] args){
         String[] atp = {"Rafael Nadal", "Novak Djokovic",
                 "Stanislas Wawrinka", "David Ferrer",

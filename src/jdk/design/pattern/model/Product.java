@@ -1,4 +1,4 @@
-package jdk;
+package jdk.design.pattern.model;
 
 /**
  * @author zhangke
@@ -9,8 +9,14 @@ package jdk;
  **/
 public class Product {
     private  String color;
+	private int price;
 
-    public String getColor() {
+	public Product(String color, int price) {
+		this.color = color;
+		this.price = price;
+	}
+
+	public String getColor() {
         return color;
     }
 
@@ -26,5 +32,11 @@ public class Product {
         this.price = price;
     }
 
-    private int price;
+	@Override
+	public String toString() {
+		return "Product{" +
+				"color='" + color + '\'' +
+				", price=" + price +
+				'}';
+	}
 }

@@ -3,7 +3,7 @@ package fanxing.jiekou;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description TODO
  * @date 2019/2/23 上午12:22
  **/

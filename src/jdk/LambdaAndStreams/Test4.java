@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description TODO
  * @date 2019/5/16 4:48 PM
  **/

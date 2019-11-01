@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description 把字符串按逗号切割，转换为 List
  *
  * @date 2019/8/20 4:43 PM

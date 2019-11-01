@@ -1,4 +1,4 @@
-package jdk;
+package jdk.Lambda;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author zhangke
  * @version 1.0
- * @className lambdaTest
+ * @className ForEachTest
  * @description TODO
  * @date 2019/5/16 4:36 PM
  * 语法：
@@ -24,7 +24,7 @@ x -> 2 * x
 // 5. 接受一个 string 对象,并在控制台打印,不返回任何值(看起来像是返回void)
 (String s) -> System.out.print(s)
  **/
-public class lambdaTest {
+public class ForEachTest {
     public static  void main(String [] args){
         String[] atp = {"Rafael Nadal", "Novak Djokovic",
                 "Stanislas Wawrinka",

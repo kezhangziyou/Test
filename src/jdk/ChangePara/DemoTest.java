@@ -3,11 +3,11 @@ package jdk.ChangePara;
 /**
  * @author zhangke
  * @version 1.0
- * @className demo
- * @description TODO jdk中的可变参数,可变参数必须放在最后一个，一个方法只能有一个可变参数
+ * @className DemoTest
+ * @description TODO jdk中的可变参数的介绍
  * @date 2019/6/26 10:00 PM
  **/
-public class demo {
+public class DemoTest {
     public static void main(String[] args) {
         System.out.println(add());
         System.out.println(add(1, 2, 3));
@@ -16,6 +16,7 @@ public class demo {
 
     /**
      * 可变参数的方法，...表示可变参数
+	 * 注意点:可变参数必须放在最后一个，一个方法只能有一个可变参数
      * @param data
      * @return
      */
