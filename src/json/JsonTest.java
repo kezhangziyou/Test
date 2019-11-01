@@ -11,11 +11,11 @@ import java.util.List;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description
  * @date 2019/8/13 10:15 AM
  **/
-public class Test {
+public class JsonTest {
 	private static  String weather ="{\n" +
 			"  \"data\": {\n" +
 			"    \"city\": \"深圳\",\n" +

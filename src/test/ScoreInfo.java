@@ -3,7 +3,7 @@ package test;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test.ScoreInfo
+ * @className ComparatorTest.ScoreInfo
  * @description TODO
  * @date 2019/1/2 上午11:38
  **/

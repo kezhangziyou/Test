@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test
+ * @className ComparatorTest
  * @description TODO 线程池的测试
  * @date 2019/2/19 下午3:21
  **/

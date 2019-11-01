@@ -3,7 +3,7 @@ package test;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test.SanDongExamModeInfo
+ * @className ComparatorTest.SanDongExamModeInfo
  * @description TODO
  * @date 2019/1/2 上午10:54
  **/

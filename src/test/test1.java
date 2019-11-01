@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 /**
  * @author zhangke
  * @version 1.0
- * @className Test.test1
+ * @className ComparatorTest.test1
  * @description TODO
  * @date 2019/5/14 11:22 AM
  **/
