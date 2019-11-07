@@ -17,6 +17,7 @@
     * [observer](https://github.com/kezhangziyou/Test/blob/dev/src/design/pattern/observer)：观察者模式
     * [proxy](https://github.com/kezhangziyou/Test/blob/dev/src/design/pattern/proxy)：代理模式
     * [single](https://github.com/kezhangziyou/Test/blob/dev/src/design/pattern/single)：单例模式
+    * [strategy](https://github.com/kezhangziyou/Test/blob/dev/src/design/pattern/strategy)：策略模式
     * [template](https://github.com/kezhangziyou/Test/blob/dev/src/design/pattern/template)：模板模式
 - [effectivejava:](https://github.com/kezhangziyou/Test/tree/dev/src/effectivejava)：书上的一些例子
 - [excel](https://github.com/kezhangziyou/Test/tree/dev/src/excel)：excel的导入与导出
