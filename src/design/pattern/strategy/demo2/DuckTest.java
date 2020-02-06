@@ -1,5 +1,6 @@
 package design.pattern.strategy.demo2;
 
+import design.pattern.strategy.base.Strategy;
 import design.pattern.strategy.demo2.duck.MallardDuck;
 
 /**
@@ -18,7 +19,6 @@ public class DuckTest {
         duck.quack();
         duck.fly();
         System.out.print("测试结束");
-
 
     }
 
