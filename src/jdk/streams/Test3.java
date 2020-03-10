@@ -1,4 +1,4 @@
-package jdk.LambdaAndStreams;
+package jdk.streams;
 
 import java.util.*;
 

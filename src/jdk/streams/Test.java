@@ -1,10 +1,12 @@
-package jdk.LambdaAndStreams;
+package jdk.streams;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
-import static java.util.stream.Collectors.*;
+import static java.util.stream.Collectors.toList;
 
 /**
  * @author zhangke
@@ -110,6 +112,9 @@ public class Test {
                 .collect(toList());
 
         sortedJavaProgrammers.forEach((p) -> System.out.printf("%s %s; %n", p.getFirstName(), p.getLastName()));
+
+        //取出List<Object>中的一个属性边位List
+        List<String> categoryIdList = javaProgrammers.stream().map(u -> u.getFirstName()).collect(Collectors.toList());
 
 
 
